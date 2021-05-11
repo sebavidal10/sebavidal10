@@ -4,4 +4,4 @@ Fan of music, movies, codes and technology. I carry a backpack with several year
 
 I write reviews of movies and series in [TheBeerbrother](https://thebeerbrother.cl), I do fullstack teaching in [DesafioLatam](https://desafiolatam.com) and I help your web projects to be carried out from [InterCODE](https://intercode.cl).
 
-Currently, i'm a developer at [Xepelin](https://www.xepelin.com)
+Currently, i'm a fullstack developer at [Xepelin](https://www.xepelin.com)
