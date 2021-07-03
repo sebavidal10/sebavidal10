@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=sebavidal10&style=flat&color=blue)
+
 ## Hi, I'm Sebastián Vidal 🤘🏻
 
 Fan of music, movies, codes and technology. I carry a backpack with several years of experiences in the world of development in various environments and I am constantly looking to add new things to my stack. 
