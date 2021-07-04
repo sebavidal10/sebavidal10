@@ -7,3 +7,9 @@ Fan of music, movies, codes and technology. I carry a backpack with several year
 I write reviews of movies and series in [TheBeerbrother](https://thebeerbrother.cl), I do fullstack teaching in [DesafioLatam](https://desafiolatam.com) and I help your web projects make it real from [InterCODE](https://intercode.cl).
 
 Currently, i'm a fullstack developer at [Xepelin](https://www.xepelin.com)
+
+## 📈 Github Stats
+  
+![sebavidal GitHub stats](https://github-readme-stats.vercel.app/api?username=sebavidal10&show_icons=true&theme=radical)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebavidal10&langs_count=8&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
