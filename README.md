@@ -3,13 +3,13 @@
 ## Hi, I'm Sebastián Vidal 🤘🏻
 ![](https://img.shields.io/badge/Html-informational?style=flat&logo=html5&logoColor=white&color=f57f17)
 ![](https://img.shields.io/badge/Css-informational?style=flat&logo=css3&logoColor=white&color=ff0000)
-![](https://img.shields.io/badge/Js-informational?style=flat&logo=javascript&logoColor=white&color=1158c7)
-![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&logoColor=white&color=1158c7)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=1158c7)
 ![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=CC342D)
 ![](https://img.shields.io/badge/RoR-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=CC342D)
 ![](https://img.shields.io/badge/Php-informational?style=flat&logo=php&logoColor=white&color=8892BF)
 ![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&color=8892BF)
+![](https://img.shields.io/badge/Js-informational?style=flat&logo=javascript&logoColor=white&color=1158c7)
+![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&logoColor=white&color=1158c7)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=1158c7)
 
 Fan of music, movies, codes and technology. I carry a backpack with several years of experiences in the world of development in various environments and I am constantly looking to add new things to my stack. 
 
