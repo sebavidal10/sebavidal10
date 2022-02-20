@@ -9,7 +9,6 @@
 ![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&color=8892BF)
 ![](https://img.shields.io/badge/Js-informational?style=flat&logo=javascript&logoColor=white&color=1158c7)
 ![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&logoColor=white&color=1158c7)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=1158c7)
 
 Fan of music, movies, codes and technology. I carry a backpack with several years of experiences in the world of development in various environments and I am constantly looking to add new things to my stack. 
 
