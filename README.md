@@ -14,7 +14,7 @@ Fan of music, movies, codes and technology. I carry a backpack with several year
 
 I write reviews of movies and series in [TheBeerbrother](https://thebeerbrother.cl), I do fullstack teaching in [DesafioLatam](https://desafiolatam.com) and in [TalentoDigital](https://talentodigitalparachile.cl) and I help your web projects make it real from [InterCODE](https://intercode.cl).
 
-Currently i am software engineer in [Buk](https://www.buk.cl)
+Currently I'm software engineer in [Buk](https://www.buk.cl)
 
 ## 📈 Github Stats
 
