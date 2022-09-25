@@ -14,7 +14,7 @@
 
 Fan of music, movies, codes and technology. I carry a backpack with several years of experiences in the world of development in various environments and I am constantly looking to add new things to my stack. 
 
-I write reviews of movies and series in [TheBeerbrother](https://thebeerbrother.cl), I do fullstack teaching in [DesafioLatam](https://desafiolatam.com) and in [TalentoDigital](https://talentodigitalparachile.cl) and I help your web projects make it real from [InterCODE](https://intercode.cl).
+I write reviews of movies and series in [TheBeerbrother](https://thebeerbrother.cl), I do fullstack teaching in Rails and Js, be Teach Lead in Dlab and I'm one-ma-band in [InterCODE](https://intercode.cl).
 
 Currently I'm Technical Leader in [GobiernoDigital](https://digital.gob.cl) <img src="https://cdn.countryflags.com/thumbs/chile/flag-800.png" width="20" >
 
