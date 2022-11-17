@@ -23,7 +23,7 @@ Fan of music, movies, codes and technology. I carry a backpack with several year
 
 But my main job is be **Technical Leader** at [GobiernoDigital](https://digital.gob.cl) <img src="https://cdn.countryflags.com/thumbs/chile/flag-800.png" width="20" >
 
-## 📈 Github Stats
+## 📈 Github Stats!
 
 ![sebavidal10's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebavidal10&show_icons=true&theme=radical&count_private=true&show_icons=true)
 
