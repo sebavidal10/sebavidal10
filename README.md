@@ -13,12 +13,14 @@
 ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=node.js&logoColor=white&color=FFC300)
 ![](https://img.shields.io/badge/Go-informational?style=flat&logo=node.js&logoColor=white&color=5DADE2)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=1158c7)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=1158c7)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=8E24AA)
 
 Fan of music, movies, codes and technology. I carry a backpack with several years of experiences in the world of development in various environments and I am constantly looking to add new things to my stack. 
 
 **What I do?**
 - Write reviews of movies and series in [TheBeerbrother](https://thebeerbrother.cl)  
+- I Write (try) in English in [Medium](https://sebacode.medium.com)
 - Do fullstack teaching in Rails and Js in [DesafioLatam](https://desafiolatam.com)  
 - Teach Lead in Dlab  
 - Technical evaluator in hiring developers processes  
