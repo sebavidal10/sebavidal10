@@ -19,14 +19,11 @@
 Fan of music, movies, codes and technology. I carry a backpack with several years of experiences in the world of development in various environments and I am constantly looking to add new things to my stack. 
 
 **What I do?**
-- Write reviews of movies and series in [TheBeerbrother](https://thebeerbrother.cl)  
 - I Write (try) in English in [Medium](https://sebacode.medium.com)
-- Do fullstack teaching in Rails and Js in [DesafioLatam](https://desafiolatam.com)  
-- Teach Lead in Dlab  
+- Write reviews of movies and series in [TheBeerbrother](https://thebeerbrother.cl)  
 - Technical evaluator in hiring developers processes  
-- One-Man-Band at [InterCODE](https://intercode.cl)  
 
-But my main job is be **Technical Leader** at [GobiernoDigital](https://digital.gob.cl) <img src="https://cdn.countryflags.com/thumbs/chile/flag-800.png" width="20" >
+But my main job ❤️ is be **Technical Leader** at [GobiernoDigital](https://digital.gob.cl) <img src="https://cdn.countryflags.com/thumbs/chile/flag-800.png" width="20" >
 
 ## 📈 Github Stats!
 
