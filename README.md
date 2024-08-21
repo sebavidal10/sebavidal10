@@ -9,8 +9,8 @@
 ![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&color=8892BF)
 ![](https://img.shields.io/badge/Js-informational?style=flat&logo=javascript&logoColor=white&color=51D04D)
 ![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&logoColor=white&color=51D04D)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react.js&logoColor=white&color=51D04D)
-![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular.js&logoColor=white&color=51D04D)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=51D04D)
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=51D04D)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=1158c7)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=8E24AA)
 
