@@ -17,11 +17,11 @@
 Fan of music, movies, codes and technology. I carry a backpack with several years of experiences in the world of development in various environments and I am constantly looking to add new things to my stack. 
 
 **What I do?**
-- I Write (try) in English in [Medium](https://sebacode.medium.com)
-- Fullstack Development Teacher
-- Technical evaluator in hiring developers processes
-
-But my main job ❤️ is be **Technical Leader** at [GobiernoDigital](https://digital.gob.cl) <img src="https://cdn.countryflags.com/thumbs/chile/flag-800.png" width="20" >
+- I write (and practice) in English on [Medium](https://sebacode.medium.com).
+- Full-stack Development Instructor.
+- Technical Evaluator for developer hiring processes.
+- Full-stack Software Developer.
+- Passionate about Artificial Intelligence.
 
 ## 📈 Github Stats!
 
