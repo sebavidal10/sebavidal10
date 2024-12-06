@@ -25,6 +25,6 @@ Fan of music, movies, codes and technology. I carry a backpack with several year
 
 ## 📈 Github Stats!
 
-![sebavidal10's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebavidal10&show_icons=true&theme=radical&count_private=true&show_icons=true)
+![sebavidal10's GitHub-stats](https://github-readme-stats.vercel.app/api?username=sebavidal10&show_icons=true&theme=radical&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebavidal10&langs_count=5&theme=radical)](https://github.com/sebavidal10/github-readme-stats)
