@@ -16,8 +16,7 @@ With over **10 years of experience** building scalable software solutions, I foc
 ---
 
 ### Tech Stack
-
-| Category | Technologies |
+|||
 | :--- | :--- |
 | **Frontend** | ![](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react) ![](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular) ![](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript) |
 | **Backend** | ![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs) ![](https://img.shields.io/badge/RoR-000000?style=for-the-badge&logo=ruby-on-rails) ![](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel) |
@@ -26,6 +25,6 @@ With over **10 years of experience** building scalable software solutions, I foc
 ---
 
 ### Connect with me
-[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white">](https://sebavidal.cl)
-[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/sebavidal)
-[<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@sebavidal10)
+[<img src="https://img.shields.io/badge/Website-45556C?style=for-the-badge&logo=google-chrome&logoColor=white">](https://sebavidal.cl)
+[<img src="https://img.shields.io/badge/LinkedIn-45556C?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/sebavidal)
+[<img src="https://img.shields.io/badge/Medium-45556C?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@sebavidal10)
