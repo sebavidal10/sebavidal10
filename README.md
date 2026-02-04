@@ -1,43 +1,37 @@
-![](https://komarev.com/ghpvc/?username=sebavidal10&style=flat&color=blue)
+<img src="https://komarev.com/ghpvc/?username=sebavidal10&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="views" />
 
-## Hi, I'm Sebastián Vidal 🤘🏻
-![](https://img.shields.io/badge/Js-informational?style=flat&logo=javascript&logoColor=white&color=51D04D)
-![](https://img.shields.io/badge/Node-informational?style=flat&logo=node.js&logoColor=white&color=51D04D)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=51D04D)
-![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=51D04D)
-![](https://img.shields.io/badge/Html-informational?style=flat&logo=html5&logoColor=white&color=f57f17)
-![](https://img.shields.io/badge/Css-informational?style=flat&logo=css3&logoColor=white&color=ff0000)
-![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=CC342D)
-![](https://img.shields.io/badge/RoR-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=CC342D)
-![](https://img.shields.io/badge/Php-informational?style=flat&logo=php&logoColor=white&color=8892BF)
-![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=laravel&logoColor=white&color=8892BF)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=1158c7)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=8E24AA)
+# Hi, I'm Sebastián Vidal 🤘🏻
 
-🎬 Fan of music, movies, code, and technology.  
-👨🏻‍💻 **Tech Lead & Fullstack Developer** with 10+ years of experience building scalable software solutions.  
-📚 Instructor & Technical Evaluator passionate about helping others grow in their careers.  
-🤖 Enthusiast of Artificial Intelligence and its applications to modern development.  
+Tech Lead | Fullstack Developer | AI Enthusiast | Instructor
 
 ---
 
-## 🌱 What I do
-- ✍🏻 I write (and practice) in English on [Medium](link-to-your-medium).  
-- 👨🏻‍🏫 Full-stack Development Instructor.  
-- 🧑🏻‍💻 Full-stack Software Developer.  
-- 🧩 Technical Evaluator for developer hiring processes.  
-- 🚀 Leading teams as a **Tech Lead**, focusing on architecture, quality, and collaboration.  
-- 🤖 Exploring how AI can improve the way we build software.  
+### About Me
+With over **10 years of experience** building scalable software solutions, I focus on software architecture, code quality, and technical leadership. I am passionate about bridging the gap between complex technology and people-centric solutions.
+
+🎬 Music, cinema, and technology enthusiast.  
+📚 Technical Instructor & Evaluator dedicated to mentoring new talent.  
+🤖 Constantly exploring how **AI** can optimize the software development lifecycle.
 
 ---
 
-## 🔭 Currently exploring
-- DevOps & Cloud technologies.  
-- AI applied to software development.  
-- Building projects that connect **technology with people**.  
+### Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react) ![](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular) ![](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript) |
+| **Backend** | ![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs) ![](https://img.shields.io/badge/RoR-000000?style=for-the-badge&logo=ruby-on-rails) ![](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel) |
+| **DevOps & AI** | ![](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker) ![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git) ![](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=bot) |
+
+
+### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebavidal10&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="Sebas Stats" />
+</p>
 
 ---
 
-## 📫 How to reach me
-- 🌐 [sebavidal.cl](https://sebavidal.cl)  
-- 💼 [LinkedIn](https://linkedin.com/in/sebavidal) 
+### Connect with me
+[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white">](https://sebavidal.cl)
+[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/sebavidal)
+[<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@sebavidal10)
