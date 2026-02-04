@@ -23,12 +23,6 @@ With over **10 years of experience** building scalable software solutions, I foc
 | **Backend** | ![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs) ![](https://img.shields.io/badge/RoR-000000?style=for-the-badge&logo=ruby-on-rails) ![](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel) |
 | **DevOps & AI** | ![](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker) ![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git) ![](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=bot) |
 
-
-### GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebavidal10&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="Sebas Stats" />
-</p>
-
 ---
 
 ### Connect with me
