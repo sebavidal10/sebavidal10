@@ -24,6 +24,19 @@ With over **10 years of experience** building scalable software solutions, I foc
 
 ---
 
+## Featured Projects
+
+A selection of tools and applications I've built, focusing on productivity and seamless user experiences.
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Loop** | iOS app to track subscriptions and recurring expenses. | Swift, SwiftUI | [App Store](https://apps.apple.com/cl/app/loop-suscripciones-y-gastos/id6759299750) |
+| **NotifyPR** | macOS menu bar app for real-time GitHub Pull Request notifications. | Swift | [AppStore](https://apps.apple.com/cl/app/notifypr/id6759353217?mt=12) |
+| **Blinky** | Desktop productivity companion for macOS. | Swift | [AppStore](https://apps.apple.com/cl/app/blinky/id6760743372?mt=12) |
+| **Photon** | Minimalist REST client extension for VS Code and Antigravity. | TypeScript, VSC API | [Marketplace](https://open-vsx.org/extension/sebavidal10/photon-rest-client) |
+
+---
+
 ### Connect with me
 [<img src="https://img.shields.io/badge/Website-45556C?style=for-the-badge&logo=google-chrome&logoColor=white">](https://sebavidal.cl)
 [<img src="https://img.shields.io/badge/LinkedIn-45556C?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/sebavidal)
