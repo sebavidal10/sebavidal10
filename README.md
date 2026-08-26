@@ -30,8 +30,6 @@ A selection of tools and applications I've built, focusing on productivity and s
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Dividir la Cuenta** | A minimalist and modern app for splitting expenses quickly and easily. Ideal for bar tabs, lunches, or shared expenses. | Swift, SwiftUI | [App Store](https://apps.apple.com/cl/app/dividir-la-cuenta/id6761118639) |
-| **Loop** | iOS app to track subscriptions and recurring expenses. | Swift, SwiftUI | [App Store](https://apps.apple.com/cl/app/loop-suscripciones-y-gastos/id6759299750) |
 | **NotifyPR** | macOS menu bar app for real-time GitHub Pull Request notifications. | Swift | [AppStore](https://apps.apple.com/cl/app/notifypr/id6759353217?mt=12) |
 | **Blinky** | Desktop productivity companion for macOS. | Swift | [AppStore](https://apps.apple.com/cl/app/blinky/id6760743372?mt=12) |
 | **Photon** | Minimalist REST client extension for VS Code and Antigravity. | TypeScript, VSC API | [Marketplace](https://open-vsx.org/extension/sebavidal10/photon-rest-client) |
