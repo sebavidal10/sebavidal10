@@ -1,32 +1,36 @@
-<img src="https://komarev.com/ghpvc/?username=sebavidal10&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="views" />
+# Hi, I'm Sebastián 🤘🏻
 
-# Hi, I'm Sebastián Vidal 🤘🏻
-
-Tech Lead | Fullstack Developer | AI Enthusiast | Instructor
+Tech Lead · Software Architecture · Full-Stack · AI Engineering
 
 ---
 
 ### About Me
-With over **10 years of experience** building scalable software solutions, I focus on software architecture, code quality, and technical leadership. I am passionate about bridging the gap between complex technology and people-centric solutions.
 
-🎬 Music, cinema, and technology enthusiast.  
-📚 Technical Instructor & Evaluator dedicated to mentoring new talent.  
-🤖 Constantly exploring how **AI** can optimize the software development lifecycle.
+Software engineer with over **10 years of experience**, currently working as a **Tech Lead** with a strong focus on software architecture, code quality, and technical leadership.
+
+I enjoy building developer tools, backend systems, and native applications, while exploring how **AI-assisted development** is changing the way we design and build software.
+
+🎓 Technical Instructor & Evaluator, mentoring the next generation of developers.  
+🎬 Music, cinema, and technology enthusiast.
 
 ---
 
 ### Tech Stack
+
 |||
 | :--- | :--- |
-| **Frontend** | ![](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react) ![](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular) ![](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript) |
-| **Backend** | ![](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs) ![](https://img.shields.io/badge/RoR-000000?style=for-the-badge&logo=ruby-on-rails) ![](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel) |
-| **DevOps & AI** | ![](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker) ![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git) ![](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=bot) |
+| **Languages** | TypeScript · Python · Java · Swift · Ruby · PHP |
+| **Frontend** | React · Angular |
+| **Backend** | Node.js · Spring Boot · Ruby on Rails · Laravel |
+| **Data** | PostgreSQL · MongoDB · Redis |
+| **DevOps** | Docker · GitHub Actions · Git |
+| **AI** | AI Agents · LLMs · Ollama |
 
 ---
 
 ## Featured Projects
 
-A selection of tools and applications I've built, focusing on productivity and seamless user experiences.
+A selection of products and developer tools I've designed, built, and shipped.
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
